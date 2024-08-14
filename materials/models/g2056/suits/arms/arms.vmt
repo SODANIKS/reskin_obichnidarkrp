@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/g2056/suits/arms/arms"
+	"$bumpmap" "models/g2056/suits/arms/arms_normal"
+}

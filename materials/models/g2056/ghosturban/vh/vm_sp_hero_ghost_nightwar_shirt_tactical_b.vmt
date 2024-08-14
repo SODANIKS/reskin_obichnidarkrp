@@ -1,0 +1,16 @@
+"VertexlitGeneric"
+{
+	$basetexture "models/bread/ghosturban/vh/vm_sp_hero_ghost_nightwar_shirt_tactical_c"
+	$bumpmap "models/bread/ghosturban/vh/vm_sp_hero_ghost_nightwar_shirt_tactical_n"
+	$phongexponenttexture "models/bread/ghosturban/vh/vm_sp_hero_ghost_nightwar_shirt_tactical_e"
+
+	$color2 "[.8 .8 .8]"
+
+	$phong 1
+	$phongboost .2
+	$phongfresnelranges "[0.05 0.5 1.0]"
+	$envmaptint "[.55 .55 .55]"	
+
+	$blendtintbybasealpha 1
+	
+}

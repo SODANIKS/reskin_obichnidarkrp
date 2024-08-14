@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	$basetexture "models/detroit/swat_captainallen/decals_d"
+
+	$additive 1
+}

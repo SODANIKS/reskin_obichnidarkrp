@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	$basetexture "models/g2056/ghosturban/shared/buckle_master_urban_c"
+	$bumpmap "models/g2056/ghosturban/shared/buckle_master_urban_n"
+	$phongexponenttexture "models/g2056/ghosturban/shared/buckle_master_urban_e"
+	$color2 "[.3.3.3]"
+
+	$phong 1
+	$phongboost 4.1
+	$phongfresnelranges "[0.05 0.5 1.0]"
+	$envmaptint "[.55 .55 .55]"
+}

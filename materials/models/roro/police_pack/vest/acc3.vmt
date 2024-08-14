@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/roro/police_pack/vest/acc3"
+	"$bumpmap" "models/roro/police_pack/vest/acc3_n"
+
+}

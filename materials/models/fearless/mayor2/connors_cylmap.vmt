@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "models/fearless/mayor2/connors_cylmap"
+	"$halflambert" 1
+}

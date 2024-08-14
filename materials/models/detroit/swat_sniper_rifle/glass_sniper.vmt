@@ -1,0 +1,14 @@
+VertexLitGeneric
+{
+	$translucent 1
+	$nocull 1
+
+	$envmap "env_cubemap"
+	$envmaptint "[0.21 0.21 0.21]"
+	$envmapcontrast 0.81
+
+	$color2 "[0.14 0.14 0.14]"
+
+	$envmaptint[.2 ".2 .2]"
+	$model 1
+}

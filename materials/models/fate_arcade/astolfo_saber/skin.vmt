@@ -1,0 +1,30 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\fate_arcade\astolfo_saber/Skin"
+                $color2 "[ 1 1 1]"
+	$surfaceprop Flesh
+
+                $normalmapalphaenvmapmask "1"
+
+
+                $lightwarptexture "models\fate_arcade\astolfo_saber/skin_ramp"
+
+	$alphatest 0
+                $nocull 0
+
+	$phong 1
+                "$phongfresnelranges"    "[1 1 0.945]"
+	$phongalbedotint 1
+	$phongexponent 1
+	$phongboost 0.2
+	$phongalbedoboost 4
+                $phongexponenttexture "models\fate_arcade\astolfo_saber/Skin_e"
+
+	$rimlight 0
+	$rimlightexponent 5
+	$rimlightboost 0.5
+	$rimlightmask 1
+
+
+	$rimmask 1
+}

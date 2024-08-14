@@ -1,0 +1,21 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/roro/police_pack/arms/Arms_d4"
+	"$bumpmap" "models/roro/police_pack/arms/Arms_n"
+$halflambert 1
+	
+			$phong "1"
+	"$phongexponent" "3.5"
+
+
+		
+	"$phongboost" ".56"	
+	"$phongfresnelranges"	"[.6 .1 2]"
+$phongalbedotint "1"
+$ambientocclusion "1"
+$rimlight "1"
+$rimlightexponent "2.75"
+$rimlightboost ".05"
+$halflambert 1
+$nocull 1
+}

@@ -1,0 +1,16 @@
+"VertexlitGeneric"
+{
+	$basetexture "models/g2056/ghosturban/head/head_hero_ghost_c"
+	$bumpmap "models/g2056/ghosturban/head/head_hero_ghost_n"
+	$phongexponenttexture "models/g2056/ghosturban/head/head_hero_ghost_e"
+
+	$color2 "[.8 .8 .8]"
+
+	$phong 1
+	$phongboost .2
+	$phongfresnelranges "[0.05 0.5 1.0]"
+	$envmaptint "[.55 .55 .55]"	
+
+	$blendtintbybasealpha 1
+	
+}

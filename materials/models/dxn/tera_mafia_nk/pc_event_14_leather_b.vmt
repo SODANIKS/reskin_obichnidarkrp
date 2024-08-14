@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/DxN/Tera_Mafia_nk/PC_Event_14_Human_g_diff"
+	"$bumpmap" "models/DxN/Tera_Mafia_nk/PC_Event_14_Human_F_norm"
+	"$halflambert" 1
+	"$nodecal" 1
+	"$nocull" 1
+
+}

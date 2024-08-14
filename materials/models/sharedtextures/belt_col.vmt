@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\sharedtextures/belt_col"
+	"$bumpmap" "models\sharedtextures/belt_nml"
+$phong "1"
+$phongexponent "3"
+$phongboost "0.15"
+$phongfresnelranges  "[1 1 30]"
+$phongalbedotint "1"
+}

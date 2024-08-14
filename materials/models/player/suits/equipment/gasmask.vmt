@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+$baseTexture "models\player/suits/equipment/gasmask"
+$bumpmap "models\player/suits/equipment/gasmask_n"
+$nocull "1"
+}

@@ -1,0 +1,16 @@
+VertexLitGeneric
+{
+	$basetexture "models/detroit/swat_sniper_rifle/body_d"
+	$bumpmap "models/detroit/swat_sniper_rifle/body_n"
+
+	$translucent 1
+
+	$phong 1
+	$phongexponenttexture "models/detroit/swat_sniper_rifle/body_e"
+	$phongfresnelranges "[0.87 0.9 1]"
+	$phongtint "[0.04 0.04 0.05]"
+	$phongalbedotint 1
+	$phongboost 12.32
+
+	$color2 "[0 0 0]"
+}

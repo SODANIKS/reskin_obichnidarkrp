@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\g2056\suits/suits/turtlenecks"
+	"$bumpmap" "models\g2056\suits/suits/turtlenecks_n"
+        "$nocull" "1"
+}

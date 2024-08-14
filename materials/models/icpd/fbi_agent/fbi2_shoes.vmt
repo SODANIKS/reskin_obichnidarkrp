@@ -1,0 +1,19 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\ICPD\FBI_Agent\FBI2_Shoes"
+	"$bumpmap" "models\ICPD\FBI_Agent\FBI2_Shoes_NM"
+	"$surfaceprop" "flesh"
+	"$model" 1
+	"$nocull" 1
+
+	"$phong" "1"
+	"$phongexponent" "20"
+	"$phongboost" "0.05"	
+	"$phongfresnelranges"	"[.1 0.2 1]"
+	"$halflambert" "1"
+
+
+	"$rimlight" "1"										
+	"$rimlightexponent" "20"							
+	"$rimlightboost" "0.1"
+}

@@ -1,0 +1,28 @@
+VertexLitGeneric
+{
+	$basetexture "models/detroit/swat_soldier/helmet_d"
+	$bumpmap "models/detroit/swat_soldier/helmet_n"
+
+	$lightwarptexture "models/detroit/swat_soldier/helmet_lw"
+
+	$envmap "env_cubemap"
+	$envmaptint "[0.01 0.01 0.01]"
+
+	$phong 1
+	$phongfresnelranges "[0 0 1]"
+	$phongwarptexture "models/detroit/swat_soldier/dim_pw"
+	$phongexponent 145
+	$phongboost 0.44
+
+	$rimlight 1
+	$rimlightexponent 59
+	$rimlightboost 0.89
+
+	$selfillum 1
+	$selfillummask "models/detroit/swat_soldier/helmet_si"
+
+	$emissiveblendenabled 1
+	$emissiveblendbasetexture "models/detroit/swat_soldier/helmet_si"
+	$emissiveblendflowtexture "models/detroit/swat_captainallen/helmet_sib"
+	$emissiveblendscrollvector "[0 0]"
+}

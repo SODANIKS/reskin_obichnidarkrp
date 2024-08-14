@@ -1,0 +1,12 @@
+VertexLitGeneric
+{
+	$basetexture "models/detroit/swat_captainallen/eyecorner_d"
+	$bumpmap "models/detroit/swat_captainallen/eyecorner_d"
+
+	$phong 1
+	$phongfresnelranges "[0.5 0.75 1]"
+	$phongexponent 19
+	$phongboost 6.68
+
+	$color2 "[0.88 0.88 0.88]"
+}

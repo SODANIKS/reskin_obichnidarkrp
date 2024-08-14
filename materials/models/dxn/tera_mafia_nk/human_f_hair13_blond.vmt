@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/DxN/Tera_Mafia_nk/Human_F_Hair13_blond"
+	"$bumpmap" "models/DxN/Tera_Mafia_nk/Human_F_Hair13_norm"
+	"$alphatest" 1
+	"$nocull" 1
+}

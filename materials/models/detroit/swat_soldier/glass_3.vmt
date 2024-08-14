@@ -1,0 +1,14 @@
+Refract
+{
+	$refract 1
+	$normalmap "models/detroit/swat_captainallen/helmet_n"
+	§dudvmap "models/detroit/swat_captainallen/helmet_n"
+
+	$refracttint "[0.75 0.75 0.82]"
+	$refractamount 0.2
+
+	$refracttexture "_rt_waterrefraction"
+
+
+	$model 1
+}

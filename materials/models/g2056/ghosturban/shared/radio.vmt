@@ -1,0 +1,14 @@
+"VertexlitGeneric"
+{
+	$basetexture "models/bread/ghosturban/shared/radio_c"
+	$bumpmap "models/bread/ghosturban/shared/radio_n"
+	$color2 "[.8 .8 .8]"
+
+	$halflambert 1
+
+	$envmaptint "[.55 .55 .55]"	
+	"$nocull" "1"	
+
+	$blendtintbybasealpha 1
+	
+}

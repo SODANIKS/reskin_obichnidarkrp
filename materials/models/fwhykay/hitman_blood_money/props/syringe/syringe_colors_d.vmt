@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/fwhykay/hitman_blood_money/props/syringe/syringe_colors_d"
+	"$translucent" 1
+}

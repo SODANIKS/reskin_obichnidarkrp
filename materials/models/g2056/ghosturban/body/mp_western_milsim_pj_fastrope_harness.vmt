@@ -1,0 +1,16 @@
+"VertexlitGeneric"
+{
+	$basetexture "models/g2056/ghosturban/body/mp_western_milsim_pj_fastrope_harness_c"
+	$bumpmap "models/g2056/ghosturban/body/mp_western_milsim_pj_fastrope_harness_n"
+
+	$color2 "[.8 .8 .8]"
+
+	$phong 1
+	$phongboost .4
+	$phongfresnelranges "[0.05 0.5 1.0]"
+	$phongexponent 20
+	$envmaptint "[.5 .5 .5]"	
+
+	$blendtintbybasealpha 1
+	
+}

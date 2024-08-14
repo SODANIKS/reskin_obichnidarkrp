@@ -1,0 +1,10 @@
+VertexLitGeneric
+{
+	$basetexture "models/detroit/swat_soldier/head_d"
+	$bumpmap "models/detroit/swat_soldier/head_n"
+
+	$phong 1
+	$phongfresnelranges "[0.41 0.7 5]"
+	$phongexponent 5
+	$phongboost 0.37
+}

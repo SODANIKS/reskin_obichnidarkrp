@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/skullhound/citizens/suit_br"
+	"$bumpmap" "models/skullhound/citizens/suit_normal"
+// 	"$blendtintbybasealpha" 1
+	"$halflambert" 1
+}

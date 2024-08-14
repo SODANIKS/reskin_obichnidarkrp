@@ -1,0 +1,27 @@
+"VertexlitGeneric"
+{
+	$basetexture "models/g2056/ghosturban/head/sp_hero_ghost_desert_glasses_lens_c"
+	$bumpmap "models/g2056/ghosturban/head/sp_hero_ghost_desert_glasses_lens_n"
+	"$color2" "[.3 .3 .3]"
+	
+	"$normalmapalphaenvmapmask" "1"				
+	"$envmap" "env_cubemap"							
+	"$envmapsaturation" "1"
+	"$envmaptint" "[.015 .015 .015]"					
+ 	"$envmapFresnel" "1"	
+
+	"$nocull" "1"	
+
+             //"ReflectionsDir
+
+	"$phong" "1"	
+	"$phongboost" "15.45"
+	"$phongexponent" "8"	
+		
+	"$phongtint" "[1 1 .9]"
+	"$phongfresnelranges" "[.2 .5 5]"
+
+             //"$PhongAlbedoTint" "1"
+	"$rimlight" "1"
+	"$rimlightboost" "0.10"
+}

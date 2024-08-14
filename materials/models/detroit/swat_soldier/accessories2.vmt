@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+	$basetexture "models/detroit/swat_soldier/logos_d"
+	$bumpmap "models/detroit/swat_captainallen/accessories_n"
+
+
+}

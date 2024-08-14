@@ -1,0 +1,16 @@
+"VertexlitGeneric"
+{
+	$basetexture "models/g2056/ghosturban/body/sp_hero_ghost_urban_vest_c"
+	$bumpmap "models/g2056/ghosturban/body/sp_hero_ghost_urban_vest_n"
+
+	$color2 "[.8 .8 .8]"
+
+	$phong 1
+	$phongboost .4
+	$phongfresnelranges "[0.05 0.5 1.0]"
+	$phongexponent 20
+	$envmaptint "[.5 .5 .5]"	
+
+	$blendtintbybasealpha 1
+	
+}

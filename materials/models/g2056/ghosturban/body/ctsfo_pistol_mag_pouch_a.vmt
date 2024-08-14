@@ -1,0 +1,15 @@
+"VertexlitGeneric"
+{
+	$basetexture "models/g2056/ghosturban/body/ctsfo_pistol_mag_pouch_a_c"
+	$bumpmap "models/g2056/ghosturban/body/ctsfo_pistol_mag_pouch_a_n"
+
+	$color2 "[.8 .8 .8]"
+
+	$halflambert 1
+
+	$envmaptint "[.55 .55 .55]"	
+	"$nocull" "1"	
+
+	$blendtintbybasealpha 1
+	
+}

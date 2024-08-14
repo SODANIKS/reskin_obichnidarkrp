@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+$translucent 1
+$baseTexture "models\player/suits/equipment/gasmask"
+}

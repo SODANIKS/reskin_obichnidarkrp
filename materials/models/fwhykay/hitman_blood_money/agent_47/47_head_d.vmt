@@ -1,0 +1,14 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/fwhykay/hitman_blood_money/agent_47/47_head_d"
+$bumpmap "models/fwhykay/hitman_blood_money/agent_47/shaders/47_head_n"
+$phongexponenttexture "models/fwhykay/hitman_blood_money/agent_47/shaders/exponent_default"
+"$halflambert" 1
+"$nodecal" "0"
+"$model" "1" 
+"$phong" "1"
+"$phongboost"    "2.5"
+"$phongfresnelranges"    "[0.7 1 1]"	
+$ambientocclusion 1
+$nocull 0
+}

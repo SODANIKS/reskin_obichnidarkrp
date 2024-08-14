@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+$baseTexture "models\player/suits/equipment/balaclava"
+$bumpmap "models\player/suits/equipment/balaclava_nml"
+}

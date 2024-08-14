@@ -1,0 +1,21 @@
+"VertexlitGeneric"
+{
+	$basetexture "models/g2056/ghosturban/head/sp_hero_ghost_nightwar_mask_c"
+	$bumpmap "models/g2056/ghosturban/head/sp_hero_ghost_nightwar_mask_n"
+	$phongexponenttexture "models/g2056/ghosturban/head/sp_hero_ghost_nightwar_mask_e"
+
+	$color2 "[.8 .8 .8]"
+
+	$phong 1
+	$phongboost .2
+
+	"$envmap" "env_cubemap"							
+	"$envmapsaturation" "1"
+	"$envmaptint" "[.01 .01 .01]"					
+ 	"$envmapFresnel" "0.5"		
+
+	"$nocull" "1"	
+			
+	"$phongtint" "[1 1 .86]"
+	"$phongfresnelranges" "[.2 .5 5]"
+}

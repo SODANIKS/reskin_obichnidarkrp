@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\kyo\codm\ghotcowboy\head_c"
+    	"$bumpmap" "models\kyo\codm\ghotcowboy\head_n"
+                "$phongexponenttexture" "models\kyo\codm\ghotcowboy\head_m"
+
+                "$basemapalphaenvmapmask"	"1" 	
+	"$nocull" "0"		
+
+	"$envmap" "env_cubemap"						
+	"$envmaptint" "[.001 .001 .001]"	
+				
+	"$phong" "1"							
+	"$phongboost"	"15" 		  
+	"$phongfresnelranges"	"[.2 .4 .7]"					
+	"$PhongAlbedoTint" "1"  				
+}

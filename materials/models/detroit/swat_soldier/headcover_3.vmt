@@ -1,0 +1,12 @@
+VertexLitGeneric
+{
+	$basetexture "models/detroit/swat_soldier/balaclava_d"
+	$bumpmap "models/detroit/swat_soldier/balaclava_n"
+
+	$phong 1
+	$phongfresnelranges "[0.5 0.75 1]"
+	$phongtint "[0.04 0.04 0.04]"
+	$phongexponent 1
+
+	$color2 "[0.62 0.62 0.62]"
+}

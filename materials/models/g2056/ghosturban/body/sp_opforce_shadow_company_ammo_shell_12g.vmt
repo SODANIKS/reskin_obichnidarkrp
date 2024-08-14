@@ -1,0 +1,16 @@
+"VertexlitGeneric"
+{
+	$basetexture "models/g2056/ghosturban/body/sp_opforce_shadow_company_ammo_shell_12g_c"
+	$bumpmap "models/g2056/ghosturban/body/sp_opforce_shadow_company_ammo_shell_12g_n"
+
+	$color2 "[.8 .8 .8]"
+
+	$phong 1
+	$phongboost 2
+	$phongfresnelranges "[0.05 0.5 1.0]"
+	$phongexponent 10
+	$envmaptint "[.5 .5 .5]"	
+
+	$blendtintbybasealpha 1
+	
+}

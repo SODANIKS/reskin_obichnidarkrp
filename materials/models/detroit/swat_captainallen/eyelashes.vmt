@@ -1,0 +1,19 @@
+VertexLitGeneric
+{
+	$basetexture "models/detroit/swat_captainallen/eyelash_d"
+	$bumpmap "models/detroit/swat_captainallen/eyelash_n"
+
+	$lightwarptexture "models/detroit/swat_captainallen/hair_lw"
+
+	$translucent 1
+	$nocull 1
+
+	$phong 1
+	$phongfresnelranges "[0.5 0.75 1]"
+	$phongwarptexture "models/detroit/swat_captainallen/hair_pw"
+	$phongtint "[0.21 0.13 0.10]"
+	$phongexponent 1
+	$phongboost 0.64
+
+	$color2 "[1.45 1.50 1.50]"
+}

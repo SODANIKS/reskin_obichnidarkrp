@@ -1,0 +1,16 @@
+"VertexlitGeneric"
+{
+	$basetexture "models/bread/ghosturban/head/head_sc_m_miller_shadowbase_c"
+	$bumpmap "models/bread/ghosturban/head/head_sc_m_miller_shadowbase_n"
+	$phongexponent 10
+
+	$color2 "[.8 .8 .8]"
+
+	$phong 1
+	$phongboost .2
+	$phongfresnelranges "[0.05 0.5 1.0]"
+	$envmaptint "[.55 .55 .55]"	
+
+	$blendtintbybasealpha 1
+	
+}

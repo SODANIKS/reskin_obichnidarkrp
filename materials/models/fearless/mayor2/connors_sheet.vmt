@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/fearless/mayor2/citizen_sheet_rich_2"
+	//"$bumpmap" "models/fearless/mayor2/citizen_sheet_norm"
+	"$model" 1
+}

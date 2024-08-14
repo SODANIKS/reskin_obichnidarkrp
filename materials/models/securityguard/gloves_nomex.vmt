@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\securityguard/gloves_nomex"
+        "$bumpmap"    "models\securityguard/gloves_nomex_nml"
+$phong "1"
+$phongexponent "3"
+$phongboost ".5"
+$phongfresnelranges  "[1 1 30]"
+$phongalbedotint "1"
+
+$rimlight "1"
+$rimlightexponent "7"
+$rimlightboost "1"
+}
+
+

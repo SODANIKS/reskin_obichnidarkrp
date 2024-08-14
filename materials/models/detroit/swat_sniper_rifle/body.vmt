@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/detroit/swat_sniper_rifle/body"
+	"$bumpmap" "models/detroit/swat_sniper_rifle/body_n"
+
+	"$phongalbedotint" 			"1"
+	$phongexponent 10
+	"$phong" 					"1"
+	"$phongboost"				".1"
+	"$phongfresnelranges"		"[.2 1 1]"
+$nocull 1
+}

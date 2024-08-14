@@ -1,0 +1,32 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\fate_arcade\astolfo_saber/mt_cloth"
+                "$bumpmap" "models\fate_arcade\astolfo_saber/mt_cloth_n"
+                $color2 "[ 1 1 1]"
+	$surfaceprop Flesh
+
+                $normalmapalphaenvmapmask "1"
+
+
+                $lightwarptexture "models\fate_arcade\astolfo_saber/gold_ramp"
+
+	$alphatest 0
+                $nocull 0
+
+	$phong 1
+                "$phongfresnelranges"    "[1 1 0.945]"
+	$phongalbedotint 1
+                $phongtint "[ 1 0.5 0.4 ]"
+	$phongexponent 5
+	$phongboost 2
+	$phongalbedoboost 4
+                $phongexponenttexture "models\fate_arcade\astolfo_saber/mt_cloth_e"
+
+	$rimlight 0
+	$rimlightexponent 5
+	$rimlightboost 0.5
+	$rimlightmask 1
+
+
+	$rimmask 1
+}

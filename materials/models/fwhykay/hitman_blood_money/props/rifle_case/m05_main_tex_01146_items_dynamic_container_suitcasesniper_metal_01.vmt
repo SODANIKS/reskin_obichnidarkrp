@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/fwhykay/hitman_blood_money/props/rifle_case/M05_main_TEX_01146_Items_Dynamic_Container_SuitcaseSniper_Metal_01"
+	$nocull 1
+}

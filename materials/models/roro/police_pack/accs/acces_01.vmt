@@ -1,0 +1,29 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/roro/police_pack/accs/acces_01"
+	"$bumpmap" "models/roro/police_pack/accs/acces_normal"
+
+"$halflambert" "1"
+
+     "$nocull" 1
+    "$model" "1"
+	$phongexponenttexture "models/roro/police_pack/accs/acces_spec"
+	"$phongexponent" "2"
+	"$phongalbedotint" 1
+	"$phong" "1"
+	"$phongboost"	".15"
+	"$phongfresnelranges"	"[.25 2.5 4]"
+	$rimlight "1"
+$rimlightexponent "7"
+$rimlightboost ".55"	
+	$detail "models/roro/police_pack/accs/radio_blend"
+	$detailscale 1
+	$detailblendfactor "1.25"
+	$detailblendmode 5
+ 
+ 
+}
+
+
+
+

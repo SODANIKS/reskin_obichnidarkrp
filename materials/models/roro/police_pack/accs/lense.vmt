@@ -1,0 +1,30 @@
+"VertexlitGeneric"
+{"$basetexture" "models/roro/police_pack/accs/johnnycage_sunglasses_diff"
+	"$bumpmap" "models/roro/police_pack/accs/johnnyCage_Sunglasses_Norm"
+"$nocull" 1
+	"$phong" "1"
+	$translucent 1
+		 $allowalphatocoverage 1
+$alphatestreference 0.1	
+$ambientocclusion 0
+
+	"$normalmapalphaenvmapmask" "1"
+	"$envmaptint" "[0.5 0.5 0.5]"
+	
+	"$envmapsaturation" "0.5"
+	"$envmaptint" "0.5 0.5 0.5"
+	"$envmapcontrast" "9"
+	"$halflambert" "1"
+	"$envmap" "env_cubemap"
+	
+
+
+	"$phongexponent" "0.5"
+	"$phongalbedotint" 1
+	"$phong" "1"
+	"$phongboost"	".1"
+	"$phongfresnelranges"	"[1.85 2.5 4]"
+	$rimlight "1"
+$rimlightexponent "7"
+$rimlightboost ".55"
+}

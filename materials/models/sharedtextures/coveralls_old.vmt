@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\sharedtextures/coveralls_old"
+	"$bumpmap" "models\sharedtextures/coveralls_nml"
+$phong "1"
+$phongexponent "3"
+$phongboost "0.15"
+$phongfresnelranges  "[1 1 30]"
+$phongalbedotint "1"
+}

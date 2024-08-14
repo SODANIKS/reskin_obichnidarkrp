@@ -1,0 +1,16 @@
+"EyeRefract"
+{
+	$iris "models/g2056/ghosturban/head/head_hero_ghost_eyes_c"
+	$corneatexture "engine/eye-cornea"
+	$ambientoccltexture "models/g2056/ghosturban/head/head_admiral_eyes_ao"
+	$envmap "engine/eye-reflection-cubemap-"
+	
+	$eyeballradius 0.6305
+	$corneabumpstrength 1.0
+	$glossiness 1.0
+	$parallaxstrength 0.25
+	$dilation 0.5
+	
+	$halflambert 1
+	$nodecal 1
+}

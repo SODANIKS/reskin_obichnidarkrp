@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\ICPD\FBI_Agent\FBI2_Upper_B"
+	"$bumpmap" "models\ICPD\FBI_Agent\FBI2_Upper_nm"
+	"$halflambert" 1
+}

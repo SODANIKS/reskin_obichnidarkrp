@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\securityguard/navy_seal_gasmask_alpha_col"
+	"$bumpmap" "models\securityguard/navy_seal_gasmask_nml"
+	"$translucent" 1
+                "$nocull" 1
+	"$phong" "1"
+	"$phongexponent" "4"
+//	"$phongalbedotint" "1"
+	"$phongboost" ".05"
+	"$phongfresnelranges"	"[.3 .3 .3]"
+	$halflambert 1
+}

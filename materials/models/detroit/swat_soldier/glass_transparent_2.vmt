@@ -1,0 +1,14 @@
+VertexLitGeneric
+{
+	$basetexture "models/detroit/swat_captainallen/helmet_translucent"
+	$bumpmap "models/detroit/swat_captainallen/helmet_n"
+
+	$alphatest 1
+	$nocull 1
+
+	$envmap "env_cubemap"
+	$envmaptint "[0.37 0.37 0.37]"
+
+	$allowalphatocoverage 1
+	$model 1
+}

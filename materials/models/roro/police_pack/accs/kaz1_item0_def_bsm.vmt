@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/roro/police_pack/accs/kaz1_item0_def_bsm"
+                "$bumpmap"    "models/roro/police_pack/accs/kaz1_item0_def_nrm"
+	"$phong" "1"
+//	"$phongexponent" "4"
+	"$phongalbedotint" "1"
+	"$phongboost" ".05"
+	"$phongfresnelranges"	"[3 5 7]"
+        "$lightwarptexture" 	"models/roro/police_pack/accs/Clothes_wrp"
+	"$phongexponenttexture" "models/roro/police_pack/accs/kaz1_item0_def_exp"
+	$halflambert 1
+	$nocull 1
+}
+
+
